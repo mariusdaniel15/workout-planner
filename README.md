@@ -1,1 +1,6 @@
-# workout-planner
+![image](https://github.com/user-attachments/assets/4f2c03c2-ff16-4b98-8c8d-9a6a1fd97ebc)
+![image](https://github.com/user-attachments/assets/af876b69-821f-4ebf-82e6-a3942df089de)
+![image](https://github.com/user-attachments/assets/191f9240-a779-4dd9-b84b-0fed1af512f5)
+![image](https://github.com/user-attachments/assets/a7e7ec10-9b5d-4d79-9ef5-94ba9fb56f39)
+![image](https://github.com/user-attachments/assets/ec580fd6-e54f-4349-8a45-845b6c44e890)
+![image](https://github.com/user-attachments/assets/46411f1c-82be-4ae9-ada2-62001ff8ca87)
